@@ -135,18 +135,7 @@ Strong in **Graphs · DP · Trees · Binary Search · Greedy · Bit Manipulation
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavya0224&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavya0224&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya0224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavya0224&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kavya0224&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavya0224&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1" /> <img height="165" src="https://streak-stats.demolab.com/?user=Kavya0224&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=06B6D4" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya0224&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavya0224&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=ffffff" width="100%"/> <img src="https://github-profile-trophy.vercel.app/?username=Kavya0224&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" /> </div>
 
 
 <br/>
