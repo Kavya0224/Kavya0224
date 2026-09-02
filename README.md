@@ -27,9 +27,6 @@ focus:
   - Agentic AI systems & multi-agent orchestration (LangGraph / LangChain)
   - Retrieval-Augmented Generation (RAG) pipelines & vector search
   - Object-Oriented Programming foundations + Competitive Programming
-currently_building:
-  - Fake job/internship scam-detector agent — Razorpay AI Buildathon 2026
-  - Sentinel AI — predictive personal-safety Android app (Samsung Solve for Tomorrow 2026)
 currently_learning:
   - Distributed Systems, System Design at scale, Kubernetes, Cloud Infra
 fun_fact: "First, solve the problem. Then, write the code."
