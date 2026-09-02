@@ -27,6 +27,10 @@ focus:
   - Agentic AI systems & multi-agent orchestration (LangGraph / LangChain)
   - Retrieval-Augmented Generation (RAG) pipelines & vector search
   - Object-Oriented Programming foundations + Competitive Programming
+competitive_programming:
+  - 1500+ DSA problems solved across platforms
+  - CodeChef 4★ (1811) · Codeforces Specialist (1512) · LeetCode 900+
+  - Strong in Graphs, DP, Trees, Binary Search, Greedy, Bit Manipulation
 currently_learning:
   - Distributed Systems, System Design at scale, Kubernetes, Cloud Infra
 fun_fact: "First, solve the problem. Then, write the code."
@@ -125,7 +129,7 @@ Predictive personal-safety Android app for the Samsung Solve for Tomorrow 2026 c
 ![1500+ Solved](https://img.shields.io/badge/DSA_Problems_Solved-1500%2B-6366F1?style=for-the-badge)
 ![CodeChef](https://img.shields.io/badge/CodeChef-4★_(1811)-5B4638?style=for-the-badge)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_(1512)-1F8ACB?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-900%2B_Problems-FFA116?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge)
 
 Strong in **Graphs · DP · Trees · Binary Search · Greedy · Bit Manipulation**
 
