@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./assets/coder.gif" width="400" alt="coding" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Kavya%20Sanger&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Agentic%20AI%20Systems%20%7C%20Multi-Agent%20Architectures%20%7C%20DSA&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
