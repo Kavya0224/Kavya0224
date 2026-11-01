@@ -78,7 +78,14 @@ fun_fact: "First, solve the problem. Then, write the code."
 <table>
 <tr>
 <td width="50%" valign="top">
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavya0224/Kavya0224/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavya0224/Kavya0224/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kavya0224/Kavya0224/output/github-snake.svg" />
+  </picture>
+</div>
+  
 ### 🤖 Multi-Agent Research Assistant
 Production-structured **LangGraph JS** backend with a Planner → Retriever → Summarizer → Validator agent pipeline, real TF-IDF + feature-hashing embeddings (pluggable `@xenova/transformers`), a FAISS vector store, and Zod-validated layered architecture (routes → controllers → services → agents → graph).
 
