@@ -144,8 +144,6 @@ Strong in **Graphs · DP · Trees · Binary Search · Greedy · Bit Manipulation
 
 <br/>
 
-## 📈 GitHub Analytics
-
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavya0224&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1)
